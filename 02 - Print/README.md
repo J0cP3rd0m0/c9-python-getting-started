@@ -9,6 +9,11 @@ Strings can be enclosed in single quotes or double quotes
 - "this is a string"
 - 'this is also a string'
 
+Strings can not enclosed in single and double quotes.
+
+- "this is a error'
+- "this isn't a error"
+
 The input function allows you to prompt a user for a value
 
 - [input](https://docs.python.org/3/library/functions.html#input)
